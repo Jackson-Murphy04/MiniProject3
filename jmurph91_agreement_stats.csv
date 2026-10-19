@@ -1,0 +1,11 @@
+SourceLog,ValidatorNetID,Field,TotalRows,PreDiscussAgreements,PreDiscussDisagreements,AgreementRateAmongAllRows,Note
+jmurph91_validation_log.csv,jmurph91,ActivityPattern,10,10,0,1.0,Rates use the recorded Yes/No agreement-status column; blank/missing author values and status inconsistencies should be reviewed.
+jmurph91_validation_log.csv,jmurph91,Currentstatus,10,10,0,1.0,Rates use the recorded Yes/No agreement-status column; blank/missing author values and status inconsistencies should be reviewed.
+jmurph91_validation_log.csv,jmurph91,HasRecovered,10,3,7,0.3,Rates use the recorded Yes/No agreement-status column; blank/missing author values and status inconsistencies should be reviewed.
+jmurph91_validation_log.csv,jmurph91,RecentThemes,10,10,0,1.0,Rates use the recorded Yes/No agreement-status column; blank/missing author values and status inconsistencies should be reviewed.
+jmurph91_validation_log.csv,jmurph91,WhyRecovered,10,10,0,1.0,Rates use the recorded Yes/No agreement-status column; blank/missing author values and status inconsistencies should be reviewed.
+tlopez7_validation_log.csv,tlopez7,ActivityPattern,10,7,3,0.7,Rates use the recorded Yes/No agreement-status column; blank/missing author values and status inconsistencies should be reviewed.
+tlopez7_validation_log.csv,tlopez7,Currentstatus,10,10,0,1.0,Rates use the recorded Yes/No agreement-status column; blank/missing author values and status inconsistencies should be reviewed.
+tlopez7_validation_log.csv,tlopez7,HasRecovered,10,9,1,0.9,Rates use the recorded Yes/No agreement-status column; blank/missing author values and status inconsistencies should be reviewed.
+tlopez7_validation_log.csv,tlopez7,RecentThemes,10,4,6,0.4,Rates use the recorded Yes/No agreement-status column; blank/missing author values and status inconsistencies should be reviewed.
+tlopez7_validation_log.csv,tlopez7,WhyRecovered,10,5,5,0.5,Rates use the recorded Yes/No agreement-status column; blank/missing author values and status inconsistencies should be reviewed.
